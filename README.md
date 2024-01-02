@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true&locale=en" alt="singhsourav0" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhsourav0&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=singhsourav0&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
