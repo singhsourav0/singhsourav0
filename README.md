@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Sourav kumar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
@@ -63,4 +63,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true&locale=en" alt="singhsourav0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsourav0&" alt="singhsourav0" /></p>```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsourav0&" alt="singhsourav0" /></p>
