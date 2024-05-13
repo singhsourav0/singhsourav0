@@ -48,30 +48,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%239b59b6?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233498db?style=for-the-badge&logo=seaborn)
 ![Plotly](https://img.shields.io/badge/Plotly-%23f39c12?style=for-the-badge&logo=plotly)
-![Tableau](https://img.shields.io/badge/Tableau-%23647ecc?style=for-the-badge&logo=tableau)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23f39c12?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23e74c3c?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-%233498db?style=for-the-badge&logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23e74c3c?style=for-the-badge&logo=pytorch)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-%239b59b6?style=for-the-badge&logo=neural-networks)
-![Convolutional Neural Networks (CNNs)](https://img.shields.io/badge/CNNs-%232ecc71?style=for-the-badge&logo=cnn)
-![Recurrent Neural Networks (RNNs)](https://img.shields.io/badge/RNNs-%23f39c12?style=for-the-badge&logo=rnn)
-![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-%23647ecc?style=for-the-badge&logo=gan)
 ![NLTK](https://img.shields.io/badge/NLTK-%23f1c40f?style=for-the-badge&logo=nltk)
-![SpaCy](https://img.shields.io/badge/SpaCy-%232ecc71?style=for-the-badge&logo=spacy)
-![Gensim](https://img.shields.io/badge/Gensim-%23f39c12?style=for-the-badge&logo=gensim)
-![Transformers](https://img.shields.io/badge/Transformers-%239b59b6?style=for-the-badge&logo=transformers)
-![MySQL](https://img.shields.io/badge/MySQL-%23e74c3c?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23647ecc?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%232ecc71?style=for-the-badge&logo=mongodb)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-%23f1c40f?style=for-the-badge&logo=beautifulsoup)
 ![Scrapy](https://img.shields.io/badge/Scrapy-%23f39c12?style=for-the-badge&logo=scrapy)
 ![Selenium](https://img.shields.io/badge/Selenium-%239b59b6?style=for-the-badge&logo=selenium)
-![Request](https://img.shields.io/badge/Request-%23e74c3c?style=for-the-badge&logo=requests)
-![ARIMA](https://img.shields.io/badge/ARIMA-%23647ecc?style=for-the-badge&logo=arima)
 ![Flask](https://img.shields.io/badge/Flask-%232ecc71?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23f39c12?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23e74c3c?style=for-the-badge&logo=streamlit)
 
 
 
@@ -90,8 +75,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhsourav0&show_icons=true&locale=en&layout=compact" alt="singhsourav0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true&locale=en" alt="singhsourav0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsourav0&" alt="singhsourav0" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true" />
+</picture>
