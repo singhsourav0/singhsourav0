@@ -36,7 +36,7 @@
 **Languages, Libraries & Frameworks**
 
 <!-- **Replace these placeholders with your actual skills** --> 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
+![PYTHON](https://img.shields.io/badge/PYTHON-1ABC9C?style=for-the-badge&logo=python&logoColor=F1C40F) 
 ![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
 ![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
 
