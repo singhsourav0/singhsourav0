@@ -37,9 +37,11 @@
 
 <!-- **Replace these placeholders with your actual skills** --> 
 ![PYTHON](https://img.shields.io/badge/PYTHON-1ABC9C?style=for-the-badge&logo=python&logoColor=F1C40F) 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
-
+![C](https://img.shields.io/badge/C-6C3483?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5DADE2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1ABC9C?style=for-the-badge&logo=sql&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E67E22?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-6C3483?style=for-the-badge&logo=css3&logoColor=white)
 **ML, Data Analysis & Visualization**
 
 ![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
