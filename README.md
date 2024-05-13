@@ -79,9 +79,17 @@
 
 **Dev Tools & Workflows**
 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
-![Placeholder](https://img.shields.io/badge/Placeholder-000000?style=for-the-badge&logo=placeholder&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud Platform (GCP)](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-%23E83835?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
