@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsourav0&label=Profile%20views&color=0e75b6&style=flat" alt="singhsourav0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhsourav0" alt="singhsourav0" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/singhsourav0" target="blank"><img src="https://img.shields.io/twitter/follow/singhsourav0?logo=twitter&style=for-the-badge" alt="singhsourav0" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning, Data Mining**
@@ -91,12 +89,6 @@
 ![Redshift](https://img.shields.io/badge/Redshift-%23E83835?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- **Replace or add the tools and technologies you use** -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhsourav0&show_icons=true&locale=en&layout=compact" alt="singhsourav0" /></p>
 
