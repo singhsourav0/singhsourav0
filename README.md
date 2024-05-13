@@ -71,18 +71,22 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-%23E83835?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=singhsourav0&show_icons=true" />
-</picture>
+  
+</div> -->
+
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=singhsourav0&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+
+<<div align=center>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div> 
+
+
