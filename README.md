@@ -57,7 +57,9 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%239b59b6?style=for-the-badge&logo=selenium)
 ![Flask](https://img.shields.io/badge/Flask-%232ecc71?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23f39c12?style=for-the-badge&logo=fastapi)
-
+![MySQL](https://img.shields.io/badge/MySQL-%23e74c3c?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23647ecc?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%232ecc71?style=for-the-badge&logo=mongodb)
 
 
 **Dev Tools & Workflows**
@@ -71,20 +73,14 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23e74c3c?style=for-the-badge&logo=streamlit)
+[![Power BI](https://img.shields.io/badge/Power_BI-1ABC9C?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
-
-
-  
-</div> -->
 
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=singhsourav0&theme=tokyonight&hide_border=true" />
 </div>
-
-<br>
-
-
 <<div align=center>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div> 
