@@ -78,8 +78,13 @@
 
 
 
+  <!-- <div align=center>
+</div> -->
+
+<div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=singhsourav0&theme=tokyonight&hide_border=true" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsourav0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
+<br>
 
